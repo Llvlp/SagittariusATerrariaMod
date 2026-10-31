@@ -1,0 +1,4 @@
+displayName = Sagittarius A*
+author = Ryn
+version = 0.1.0
+modReferences = SubworldLibrary

@@ -1,0 +1,110 @@
+Buffs: {
+	CosmicRadiationBuff: {
+		DisplayName: Cosmic Radiation Buff
+		Description: Mods.SagittariusA.Buffs.CosmicRadiationBuff.Description
+	}
+
+	OrichalcumSkinBuff: {
+		DisplayName: Orichalcum Skin Buff
+		Description: Mods.SagittariusA.Buffs.OrichalcumSkinBuff.Description
+	}
+
+	WeakPurityBuff: {
+		DisplayName: Weak Purity Buff
+		Description: Mods.SagittariusA.Buffs.WeakPurityBuff.Description
+	}
+
+	AncientLightMinionBuff: {
+		DisplayName: Ancient Light Minion Buff
+		Description: Mods.SagittariusA.Buffs.AncientLightMinionBuff.Description
+	}
+
+	InfectiveLife: {
+		DisplayName: Infective Life
+		Description: Mods.SagittariusA.Buffs.InfectiveLife.Description
+	}
+
+	ConcentratedVenom: {
+		DisplayName: Concentrated Venom
+		Description: Mods.SagittariusA.Buffs.ConcentratedVenom.Description
+	}
+
+	FlamingPurity: {
+		DisplayName: Flaming Purity
+		Description: Mods.SagittariusA.Buffs.FlamingPurity.Description
+	}
+
+	VeryPure: {
+		DisplayName: Very Pure
+		Description: Mods.SagittariusA.Buffs.VeryPure.Description
+	}
+}
+
+Items: {
+	LifeJuice: {
+		Tooltip: ""
+		DisplayName: Life Shard
+	}
+
+	AncientLightSoul: {
+		DisplayName: Ancient Light Soul
+		Tooltip: ""
+	}
+
+	PainfulPurification: {
+		DisplayName: Painful Purification
+		Tooltip: ""
+	}
+
+	AncientDarkSoul: {
+		DisplayName: Ancient Dark Soul
+		Tooltip: ""
+	}
+
+	PainfulCleansing: {
+		DisplayName: Painful Cleansing
+		Tooltip: ""
+	}
+
+	Heart_of_Terraria: {
+		DisplayName: Heart_of_ Terraria
+		Tooltip: ""
+	}
+
+	ArchyonHelmet: {
+		DisplayName: Archyon Helmet
+		Tooltip: ""
+	}
+
+	ArchyonLeggings: {
+		DisplayName: Archyon Leggings
+		Tooltip: ""
+	}
+
+	ArchyonShirt: {
+		DisplayName: Archyon Shirt
+		Tooltip: ""
+	}
+
+	ArchyonMask: {
+		Tooltip: ""
+		DisplayName: Archyon Mask
+	}
+
+	Light_sPurification: {
+		DisplayName: Light_s Purification
+		Tooltip: ""
+	}
+}
+
+Biomes: {
+}
+
+Projectiles: {
+	AncientLightMinion.DisplayName: Ancient Light Minion
+	ToxicLifeShot.DisplayName: Toxic Life Shot
+	Light_sPurificationMinion.DisplayName: Light_s Purification Minion
+}
+
+NPCs.ArchmageOfLife.DisplayName: Archmage Of Life
+Tiles.ArchiteOreTile.MapEntry: Archite Ore
